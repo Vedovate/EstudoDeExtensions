@@ -1,0 +1,15 @@
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\bin\Debug\net6.0\EstudoDeExtensions.exe
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\bin\Debug\net6.0\EstudoDeExtensions.deps.json
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\bin\Debug\net6.0\EstudoDeExtensions.runtimeconfig.json
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\bin\Debug\net6.0\EstudoDeExtensions.dll
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\bin\Debug\net6.0\ref\EstudoDeExtensions.dll
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\bin\Debug\net6.0\EstudoDeExtensions.pdb
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\obj\Debug\net6.0\EstudoDeExtensions.csproj.AssemblyReference.cache
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\obj\Debug\net6.0\EstudoDeExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\obj\Debug\net6.0\EstudoDeExtensions.AssemblyInfoInputs.cache
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\obj\Debug\net6.0\EstudoDeExtensions.AssemblyInfo.cs
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\obj\Debug\net6.0\EstudoDeExtensions.csproj.CoreCompileInputs.cache
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\obj\Debug\net6.0\EstudoDeExtensions.dll
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\obj\Debug\net6.0\ref\EstudoDeExtensions.dll
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\obj\Debug\net6.0\EstudoDeExtensions.pdb
+D:\Projetos\Teste_e_Estudo\EstudoDeExtensions\EstudoDeExtensions\obj\Debug\net6.0\EstudoDeExtensions.genruntimeconfig.cache
